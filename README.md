@@ -1,17 +1,8 @@
-# Hashland
-The design of the game is inspired by The Sandbox, Decentraland. We believe that an NFT should contain three values (use value, investment value and emotional value). Among them, the use value, the soul of NFT, can release the value of NFT and also determine the value of investment and final height of emotional value.
-
-Making every piece of NFT valuable is our ultimate goal for designing games. Each minted NFT in the game has one or more usage scenarios. Players will continue to use, consume, and strengthen these NFT items to maximize profits during the game. As NFT items continue to be consumed and used, these limited NFTs also become more and more valuable.
-
-In order to allow players to deeply participate in the design of the game, some NFT items in the game are completely controlled and distributed by the players. The higher the hero level of the player, the stronger the attributes of the item created, and the NFT with no value should not be created.
-
-Heroes, land, gear, pets, mounts, items, gold coins, attributes, rarity, total circulation and other data in the game are permanently stored on the blockchain in the form of NFT (ERC721, ERC1155) tokens to achieve complete decentralization of game data. A player's NFT can be accessed, verified, and valued under any circumstances.
-
-We have created a completely deflationary game token economic model. The entire gameplay is designed based on the destruction of HLD tokens. What’s more, the system will count the current destruction, issuance, circulation etc. in a real time manner, allowing users to know the current state of the game economy. 
-
-## GAMEPLAY
+## HASHLAND
 
 Hashland (hashland.app) is a 3D fantasy metaverse composed of (NFT), which perfectly integrates the design ideas of online games such as World of Warcraft with the blockchain.
+
+## GAMEPLAY
 
 Each NFT item in the game has set a floor price, which can be obtained directly by destroying the NFT item. User can also mortgage NFT items to borrow some tokens, which should be returned in full when redeemed. Mortgage and redemption will burn part of the tokens as a fee.
 
